@@ -7,3 +7,7 @@ Steps demonstrated:
 - modify files
 - commit changes
 - push to remote repository
+
+## Demo Change
+
+This line was added in the feature/demo branch to demonstrate a Git commit.
