@@ -13,3 +13,5 @@ Steps demonstrated:
 This line was added in the feature/demo branch to demonstrate a Git commit.
 
 Another demo line added locally in the feature/demo branch.
+
+Another demo line added locally in the feature/demo branch.
