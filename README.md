@@ -1,2 +1,9 @@
-# prse-git-demo
-Demo repository used to demonstrate basic Git workflow for the Software Engineering Praktikum.
+# PRSE Git Demo
+
+This repository is used to demonstrate a simple Git workflow.
+
+Steps demonstrated:
+- create a branch
+- modify files
+- commit changes
+- push to remote repository
